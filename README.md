@@ -1,4 +1,4 @@
-# Server-Utils
+# Crunchy π
 A discord bot with intent to have as many features as possible in order to decrease the ammount of bots needed in a server
 
 
@@ -9,7 +9,6 @@ A discord bot with intent to have as many features as possible in order to decre
 - Global announcements (These are made by the bot's staff steam. It is a message that is sent to every server the bot is in [this feature can be disabled by the user]. This message can contain updates and other stuff we might think that is relevant [These announcements are sent to the logs channel])
 - Ticket system (An easy way for members to ask for support)
 - Customizable messages for when a person joins or leaves the server.
-- Spicy content (Because, why not?)
 - Invites counting and inviter leaderboard
 
 
@@ -95,24 +94,6 @@ A discord bot with intent to have as many features as possible in order to decre
     - Changes the volume of the music (Value of 10% is recomended to not cause hearing issues and not to lose sound quality).
   - music set-playlist:
     - Sets the current track and queue to the server playlist. This playlist can be played by using music play server-playlist.
-    
-- Porn commands (Can be executed by everyone if active in the server):
-  - porn ass:
-    - Gets a pic or gif of an ass.
-  - porn balls:
-    - Gets a pic or gif of some balls.
-  - porn boobs:
-    - Gets a pic or gif of a pair of boobs.
-  - porn dick:
-    - Gets a pic or gif of a dick.
-  - porn gay:
-    - Gets a pic or gif of a gay video.
-  - porn lesbian:
-    - Gets a pic or gif of a lesbian video.
-  - porn pussy:
-    - Gets a pic or gif of a pussy.
-  - porn sex:
-    - Gets a pic or gif of a porn video.
 # Conclusion
 If you find any bug or want to add a suggestion feel free to open an issue.\
 This is a open-source bot so you can do whatever you want with the code as long as you give needed credit and don't use it for lucrative ends.\

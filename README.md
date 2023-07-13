@@ -1,3 +1,7 @@
+<picture>
+  <img alt="test" src="	https://cdn.discordapp.com/attachments/1084203416294801419/1100757115506806915/image.png">
+</picture>
+
 # Crunchy π
 A discord bot with intent to have as many features as possible in order to decrease the ammount of bots needed in a server
 
